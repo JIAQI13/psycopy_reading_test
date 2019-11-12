@@ -1,0 +1,428 @@
+7.5368 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1920, 1080]. Using actual size
+8.4574 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([0., 0., 0.]), colorSpace='rgb', fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001C58D6176A0>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001C58D69B748>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+8.4575 	EXP 	window1: recordFrameIntervals = False
+8.6233 	EXP 	window1: recordFrameIntervals = True
+8.8069 	EXP 	window1: recordFrameIntervals = False
+9.0094 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='default text', units='height', win=Window(...), wrapWidth=1)
+9.0132 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='default text', units='height', win=Window(...), wrapWidth=1)
+9.0311 	EXP 	Imported stim.xlsx as conditions, 12 conditions, 2 params
+9.0314 	EXP 	Created sequence: sequential, trialTypes=12, nReps=1, seed=None
+9.0317 	EXP 	New trial (rep=0, index=0): OrderedDict([('S1', 'coffee'), ('S2', 'pizza')])
+9.0634 	DATA 	Keypress: space
+9.1566 	EXP 	text: text = 'coffee'
+9.1566 	EXP 	text: autoDraw = True
+9.1619 	EXP 	New trial (rep=0, index=1): OrderedDict([('S1', 'was'), ('S2', 'was')])
+9.1899 	EXP 	text: autoDraw = False
+9.1899 	EXP 	text: text = 'was'
+9.1899 	EXP 	text: autoDraw = True
+9.9777 	EXP 	New trial (rep=0, index=2): OrderedDict([('S1', 'too'), ('S2', 'too')])
+9.9826 	DATA 	Keypress: space
+9.9898 	EXP 	text: autoDraw = False
+9.9898 	EXP 	text: text = 'too'
+9.9898 	EXP 	text: autoDraw = True
+10.3937 	DATA 	Keypress: space
+10.4108 	EXP 	New trial (rep=0, index=3): OrderedDict([('S1', 'hot'), ('S2', 'hot')])
+10.4232 	EXP 	text: autoDraw = False
+10.4232 	EXP 	text: text = 'hot'
+10.4232 	EXP 	text: autoDraw = True
+10.7442 	EXP 	New trial (rep=0, index=4): OrderedDict([('S1', 'to'), ('S2', 'to ')])
+10.7486 	DATA 	Keypress: space
+10.7564 	EXP 	text: autoDraw = False
+10.7564 	EXP 	text: text = 'to'
+10.7564 	EXP 	text: autoDraw = True
+11.0276 	EXP 	New trial (rep=0, index=5): OrderedDict([('S1', 'drink'), ('S2', 'drink')])
+11.0386 	DATA 	Keypress: space
+11.0398 	EXP 	text: autoDraw = False
+11.0398 	EXP 	text: text = 'drink'
+11.0398 	EXP 	text: autoDraw = True
+11.2941 	EXP 	New trial (rep=0, index=6): OrderedDict([('S1', 'so'), ('S2', 'so ')])
+11.2980 	DATA 	Keypress: space
+11.3065 	EXP 	text: autoDraw = False
+11.3065 	EXP 	text: text = 'so'
+11.3065 	EXP 	text: autoDraw = True
+11.5777 	EXP 	New trial (rep=0, index=7): OrderedDict([('S1', 'we'), ('S2', 'we')])
+11.5816 	DATA 	Keypress: space
+11.5898 	EXP 	text: autoDraw = False
+11.5898 	EXP 	text: text = 'we'
+11.5898 	EXP 	text: autoDraw = True
+11.8447 	EXP 	New trial (rep=0, index=8): OrderedDict([('S1', 'let'), ('S2', 'let')])
+11.8488 	DATA 	Keypress: space
+11.8566 	EXP 	text: autoDraw = False
+11.8566 	EXP 	text: text = 'let'
+11.8566 	EXP 	text: autoDraw = True
+12.0949 	EXP 	New trial (rep=0, index=9): OrderedDict([('S1', 'it'), ('S2', 'it')])
+12.0989 	DATA 	Keypress: space
+12.1067 	EXP 	text: autoDraw = False
+12.1067 	EXP 	text: text = 'it'
+12.1067 	EXP 	text: autoDraw = True
+12.3276 	EXP 	New trial (rep=0, index=10): OrderedDict([('S1', 'cool'), ('S2', 'cool')])
+12.3326 	DATA 	Keypress: space
+12.3399 	EXP 	text: autoDraw = False
+12.3399 	EXP 	text: text = 'cool'
+12.3399 	EXP 	text: autoDraw = True
+12.5947 	EXP 	New trial (rep=0, index=11): OrderedDict([('S1', 'down'), ('S2', 'down')])
+12.5995 	DATA 	Keypress: space
+12.6066 	EXP 	text: autoDraw = False
+12.6066 	EXP 	text: text = 'down'
+12.6066 	EXP 	text: autoDraw = True
+12.8658 	EXP 	Imported stim.xlsx as conditions, 12 conditions, 2 params
+12.8661 	EXP 	Created sequence: sequential, trialTypes=12, nReps=5, seed=None
+12.8664 	EXP 	New trial (rep=0, index=0): OrderedDict([('S1', 'coffee'), ('S2', 'pizza')])
+12.8778 	DATA 	Keypress: space
+12.8899 	EXP 	text: autoDraw = False
+12.8899 	EXP 	text_2: text = 'pizza'
+12.8899 	EXP 	text_2: autoDraw = True
+13.1281 	EXP 	New trial (rep=0, index=1): OrderedDict([('S1', 'was'), ('S2', 'was')])
+13.1336 	DATA 	Keypress: space
+13.1400 	EXP 	text_2: autoDraw = False
+13.1400 	EXP 	text_2: text = 'was'
+13.1400 	EXP 	text_2: autoDraw = True
+13.3951 	EXP 	New trial (rep=0, index=2): OrderedDict([('S1', 'too'), ('S2', 'too')])
+13.4007 	DATA 	Keypress: space
+13.4066 	EXP 	text_2: autoDraw = False
+13.4066 	EXP 	text_2: text = 'too'
+13.4066 	EXP 	text_2: autoDraw = True
+13.6797 	DATA 	Keypress: space
+13.6947 	EXP 	New trial (rep=0, index=3): OrderedDict([('S1', 'hot'), ('S2', 'hot')])
+13.7066 	EXP 	text_2: autoDraw = False
+13.7066 	EXP 	text_2: text = 'hot'
+13.7066 	EXP 	text_2: autoDraw = True
+13.9448 	DATA 	Keypress: space
+13.9607 	EXP 	New trial (rep=0, index=4): OrderedDict([('S1', 'to'), ('S2', 'to ')])
+13.9733 	EXP 	text_2: autoDraw = False
+13.9733 	EXP 	text_2: text = 'to '
+13.9733 	EXP 	text_2: autoDraw = True
+14.1947 	EXP 	New trial (rep=0, index=5): OrderedDict([('S1', 'drink'), ('S2', 'drink')])
+14.1995 	DATA 	Keypress: space
+14.2065 	EXP 	text_2: autoDraw = False
+14.2065 	EXP 	text_2: text = 'drink'
+14.2065 	EXP 	text_2: autoDraw = True
+14.4608 	EXP 	New trial (rep=0, index=6): OrderedDict([('S1', 'so'), ('S2', 'so ')])
+14.4666 	DATA 	Keypress: space
+14.4733 	EXP 	text_2: autoDraw = False
+14.4733 	EXP 	text_2: text = 'so '
+14.4733 	EXP 	text_2: autoDraw = True
+14.7116 	EXP 	New trial (rep=0, index=7): OrderedDict([('S1', 'we'), ('S2', 'we')])
+14.7167 	DATA 	Keypress: space
+14.7233 	EXP 	text_2: autoDraw = False
+14.7233 	EXP 	text_2: text = 'we'
+14.7233 	EXP 	text_2: autoDraw = True
+14.9447 	EXP 	New trial (rep=0, index=8): OrderedDict([('S1', 'let'), ('S2', 'let')])
+14.9488 	DATA 	Keypress: space
+14.9567 	EXP 	text_2: autoDraw = False
+14.9567 	EXP 	text_2: text = 'let'
+14.9567 	EXP 	text_2: autoDraw = True
+15.1939 	EXP 	New trial (rep=0, index=9): OrderedDict([('S1', 'it'), ('S2', 'it')])
+15.1986 	DATA 	Keypress: space
+15.2066 	EXP 	text_2: autoDraw = False
+15.2066 	EXP 	text_2: text = 'it'
+15.2066 	EXP 	text_2: autoDraw = True
+15.4277 	EXP 	New trial (rep=0, index=10): OrderedDict([('S1', 'cool'), ('S2', 'cool')])
+15.4326 	DATA 	Keypress: space
+15.4400 	EXP 	text_2: autoDraw = False
+15.4400 	EXP 	text_2: text = 'cool'
+15.4400 	EXP 	text_2: autoDraw = True
+15.7612 	DATA 	Keypress: space
+15.7776 	EXP 	New trial (rep=0, index=11): OrderedDict([('S1', 'down'), ('S2', 'down')])
+15.7900 	EXP 	text_2: autoDraw = False
+15.7900 	EXP 	text_2: text = 'down'
+15.7900 	EXP 	text_2: autoDraw = True
+16.1280 	EXP 	New trial (rep=1, index=0): OrderedDict([('S1', 'coffee'), ('S2', 'pizza')])
+16.1340 	DATA 	Keypress: space
+16.1400 	EXP 	text_2: autoDraw = False
+16.1400 	EXP 	text_2: text = 'pizza'
+16.1400 	EXP 	text_2: autoDraw = True
+16.4607 	EXP 	New trial (rep=1, index=1): OrderedDict([('S1', 'was'), ('S2', 'was')])
+16.4658 	DATA 	Keypress: space
+16.4734 	EXP 	text_2: autoDraw = False
+16.4734 	EXP 	text_2: text = 'was'
+16.4734 	EXP 	text_2: autoDraw = True
+16.7107 	EXP 	New trial (rep=1, index=2): OrderedDict([('S1', 'too'), ('S2', 'too')])
+16.7155 	DATA 	Keypress: space
+16.7233 	EXP 	text_2: autoDraw = False
+16.7233 	EXP 	text_2: text = 'too'
+16.7233 	EXP 	text_2: autoDraw = True
+16.9276 	EXP 	New trial (rep=1, index=3): OrderedDict([('S1', 'hot'), ('S2', 'hot')])
+16.9329 	DATA 	Keypress: space
+16.9400 	EXP 	text_2: autoDraw = False
+16.9400 	EXP 	text_2: text = 'hot'
+16.9400 	EXP 	text_2: autoDraw = True
+17.1277 	EXP 	New trial (rep=1, index=4): OrderedDict([('S1', 'to'), ('S2', 'to ')])
+17.1326 	DATA 	Keypress: space
+17.1401 	EXP 	text_2: autoDraw = False
+17.1401 	EXP 	text_2: text = 'to '
+17.1401 	EXP 	text_2: autoDraw = True
+17.3106 	DATA 	Keypress: space
+17.3281 	EXP 	New trial (rep=1, index=5): OrderedDict([('S1', 'drink'), ('S2', 'drink')])
+17.3400 	EXP 	text_2: autoDraw = False
+17.3400 	EXP 	text_2: text = 'drink'
+17.3400 	EXP 	text_2: autoDraw = True
+17.4947 	EXP 	New trial (rep=1, index=6): OrderedDict([('S1', 'so'), ('S2', 'so ')])
+17.4999 	DATA 	Keypress: space
+17.5067 	EXP 	text_2: autoDraw = False
+17.5067 	EXP 	text_2: text = 'so '
+17.5067 	EXP 	text_2: autoDraw = True
+17.6776 	DATA 	Keypress: space
+17.6948 	EXP 	New trial (rep=1, index=7): OrderedDict([('S1', 'we'), ('S2', 'we')])
+17.7067 	EXP 	text_2: autoDraw = False
+17.7067 	EXP 	text_2: text = 'we'
+17.7067 	EXP 	text_2: autoDraw = True
+17.8610 	EXP 	New trial (rep=1, index=8): OrderedDict([('S1', 'let'), ('S2', 'let')])
+17.8656 	DATA 	Keypress: space
+17.8733 	EXP 	text_2: autoDraw = False
+17.8733 	EXP 	text_2: text = 'let'
+17.8733 	EXP 	text_2: autoDraw = True
+18.0281 	EXP 	New trial (rep=1, index=9): OrderedDict([('S1', 'it'), ('S2', 'it')])
+18.0329 	DATA 	Keypress: space
+18.0401 	EXP 	text_2: autoDraw = False
+18.0401 	EXP 	text_2: text = 'it'
+18.0401 	EXP 	text_2: autoDraw = True
+18.1946 	DATA 	Keypress: space
+18.2108 	EXP 	New trial (rep=1, index=10): OrderedDict([('S1', 'cool'), ('S2', 'cool')])
+18.2234 	EXP 	text_2: autoDraw = False
+18.2234 	EXP 	text_2: text = 'cool'
+18.2234 	EXP 	text_2: autoDraw = True
+18.3778 	EXP 	New trial (rep=1, index=11): OrderedDict([('S1', 'down'), ('S2', 'down')])
+18.3831 	DATA 	Keypress: space
+18.3901 	EXP 	text_2: autoDraw = False
+18.3901 	EXP 	text_2: text = 'down'
+18.3901 	EXP 	text_2: autoDraw = True
+18.5449 	EXP 	New trial (rep=2, index=0): OrderedDict([('S1', 'coffee'), ('S2', 'pizza')])
+18.5509 	DATA 	Keypress: space
+18.5567 	EXP 	text_2: autoDraw = False
+18.5567 	EXP 	text_2: text = 'pizza'
+18.5567 	EXP 	text_2: autoDraw = True
+18.7123 	DATA 	Keypress: space
+18.7278 	EXP 	New trial (rep=2, index=1): OrderedDict([('S1', 'was'), ('S2', 'was')])
+18.7400 	EXP 	text_2: autoDraw = False
+18.7400 	EXP 	text_2: text = 'was'
+18.7400 	EXP 	text_2: autoDraw = True
+18.8947 	EXP 	New trial (rep=2, index=2): OrderedDict([('S1', 'too'), ('S2', 'too')])
+18.8997 	DATA 	Keypress: space
+18.9067 	EXP 	text_2: autoDraw = False
+18.9067 	EXP 	text_2: text = 'too'
+18.9067 	EXP 	text_2: autoDraw = True
+19.0607 	EXP 	New trial (rep=2, index=3): OrderedDict([('S1', 'hot'), ('S2', 'hot')])
+19.0655 	DATA 	Keypress: space
+19.0734 	EXP 	text_2: autoDraw = False
+19.0734 	EXP 	text_2: text = 'hot'
+19.0734 	EXP 	text_2: autoDraw = True
+19.2301 	DATA 	Keypress: space
+19.2447 	EXP 	New trial (rep=2, index=4): OrderedDict([('S1', 'to'), ('S2', 'to ')])
+19.2567 	EXP 	text_2: autoDraw = False
+19.2567 	EXP 	text_2: text = 'to '
+19.2567 	EXP 	text_2: autoDraw = True
+19.4109 	EXP 	New trial (rep=2, index=5): OrderedDict([('S1', 'drink'), ('S2', 'drink')])
+19.4159 	DATA 	Keypress: space
+19.4234 	EXP 	text_2: autoDraw = False
+19.4234 	EXP 	text_2: text = 'drink'
+19.4234 	EXP 	text_2: autoDraw = True
+19.5777 	EXP 	New trial (rep=2, index=6): OrderedDict([('S1', 'so'), ('S2', 'so ')])
+19.5828 	DATA 	Keypress: space
+19.5900 	EXP 	text_2: autoDraw = False
+19.5900 	EXP 	text_2: text = 'so '
+19.5900 	EXP 	text_2: autoDraw = True
+19.7607 	EXP 	New trial (rep=2, index=7): OrderedDict([('S1', 'we'), ('S2', 'we')])
+19.7658 	DATA 	Keypress: space
+19.7734 	EXP 	text_2: autoDraw = False
+19.7734 	EXP 	text_2: text = 'we'
+19.7734 	EXP 	text_2: autoDraw = True
+19.9279 	EXP 	New trial (rep=2, index=8): OrderedDict([('S1', 'let'), ('S2', 'let')])
+19.9329 	DATA 	Keypress: space
+19.9401 	EXP 	text_2: autoDraw = False
+19.9401 	EXP 	text_2: text = 'let'
+19.9401 	EXP 	text_2: autoDraw = True
+20.0947 	EXP 	New trial (rep=2, index=9): OrderedDict([('S1', 'it'), ('S2', 'it')])
+20.0998 	DATA 	Keypress: space
+20.1067 	EXP 	text_2: autoDraw = False
+20.1067 	EXP 	text_2: text = 'it'
+20.1067 	EXP 	text_2: autoDraw = True
+20.2777 	EXP 	New trial (rep=2, index=10): OrderedDict([('S1', 'cool'), ('S2', 'cool')])
+20.2827 	DATA 	Keypress: space
+20.2900 	EXP 	text_2: autoDraw = False
+20.2900 	EXP 	text_2: text = 'cool'
+20.2900 	EXP 	text_2: autoDraw = True
+20.4108 	DATA 	Keypress: space
+20.4276 	EXP 	New trial (rep=2, index=11): OrderedDict([('S1', 'down'), ('S2', 'down')])
+20.4401 	EXP 	text_2: autoDraw = False
+20.4401 	EXP 	text_2: text = 'down'
+20.4401 	EXP 	text_2: autoDraw = True
+21.4275 	DATA 	Keypress: escape
+21.4401 	EXP 	text_2: autoDraw = False
+21.6195 	EXP 	window1: mouseVisible = True
+8.6527 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1920, 1080]. Using actual size
+9.5215 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([0., 0., 0.]), colorSpace='rgb', fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000024FA51386A0>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000024FA51BB748>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+9.5216 	EXP 	window1: recordFrameIntervals = False
+9.6875 	EXP 	window1: recordFrameIntervals = True
+9.8711 	EXP 	window1: recordFrameIntervals = False
+10.0730 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='default text', units='height', win=Window(...), wrapWidth=1)
+10.0770 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='default text', units='height', win=Window(...), wrapWidth=1)
+10.0949 	EXP 	Imported stim.xlsx as conditions, 12 conditions, 2 params
+10.0953 	EXP 	Created sequence: sequential, trialTypes=12, nReps=1, seed=None
+10.0955 	EXP 	New trial (rep=0, index=0): OrderedDict([('S1', 'coffee'), ('S2', 'pizza')])
+10.2324 	EXP 	text: text = 'coffee'
+10.2324 	EXP 	text: autoDraw = True
+10.8922 	EXP 	New trial (rep=0, index=1): OrderedDict([('S1', 'was'), ('S2', 'was')])
+10.9014 	DATA 	Keypress: space
+10.9040 	EXP 	text: autoDraw = False
+10.9040 	EXP 	text: text = 'was'
+10.9040 	EXP 	text: autoDraw = True
+11.2248 	DATA 	Keypress: space
+11.2419 	EXP 	New trial (rep=0, index=2): OrderedDict([('S1', 'too'), ('S2', 'too')])
+11.2540 	EXP 	text: autoDraw = False
+11.2540 	EXP 	text: text = 'too'
+11.2540 	EXP 	text: autoDraw = True
+11.4933 	DATA 	Keypress: space
+11.5086 	EXP 	New trial (rep=0, index=3): OrderedDict([('S1', 'hot'), ('S2', 'hot')])
+11.5208 	EXP 	text: autoDraw = False
+11.5208 	EXP 	text: text = 'hot'
+11.5208 	EXP 	text: autoDraw = True
+11.7420 	EXP 	New trial (rep=0, index=4): OrderedDict([('S1', 'to'), ('S2', 'to ')])
+11.7467 	DATA 	Keypress: space
+11.7541 	EXP 	text: autoDraw = False
+11.7541 	EXP 	text: text = 'to'
+11.7541 	EXP 	text: autoDraw = True
+11.9748 	DATA 	Keypress: space
+11.9921 	EXP 	New trial (rep=0, index=5): OrderedDict([('S1', 'drink'), ('S2', 'drink')])
+12.0207 	EXP 	text: autoDraw = False
+12.0207 	EXP 	text: text = 'drink'
+12.0207 	EXP 	text: autoDraw = True
+12.2248 	EXP 	New trial (rep=0, index=6): OrderedDict([('S1', 'so'), ('S2', 'so ')])
+12.2287 	DATA 	Keypress: space
+12.2374 	EXP 	text: autoDraw = False
+12.2374 	EXP 	text: text = 'so'
+12.2374 	EXP 	text: autoDraw = True
+12.4748 	EXP 	New trial (rep=0, index=7): OrderedDict([('S1', 'we'), ('S2', 'we')])
+12.4796 	DATA 	Keypress: space
+12.4874 	EXP 	text: autoDraw = False
+12.4874 	EXP 	text: text = 'we'
+12.4874 	EXP 	text: autoDraw = True
+12.7085 	EXP 	New trial (rep=0, index=8): OrderedDict([('S1', 'let'), ('S2', 'let')])
+12.7127 	DATA 	Keypress: space
+12.7208 	EXP 	text: autoDraw = False
+12.7208 	EXP 	text: text = 'let'
+12.7208 	EXP 	text: autoDraw = True
+12.9245 	DATA 	Keypress: space
+12.9420 	EXP 	New trial (rep=0, index=9): OrderedDict([('S1', 'it'), ('S2', 'it')])
+12.9540 	EXP 	text: autoDraw = False
+12.9540 	EXP 	text: text = 'it'
+12.9540 	EXP 	text: autoDraw = True
+13.1424 	DATA 	Keypress: space
+13.1586 	EXP 	New trial (rep=0, index=10): OrderedDict([('S1', 'cool'), ('S2', 'cool')])
+13.1707 	EXP 	text: autoDraw = False
+13.1707 	EXP 	text: text = 'cool'
+13.1707 	EXP 	text: autoDraw = True
+13.3748 	EXP 	New trial (rep=0, index=11): OrderedDict([('S1', 'down'), ('S2', 'down')])
+13.3798 	DATA 	Keypress: space
+13.3875 	EXP 	text: autoDraw = False
+13.3875 	EXP 	text: text = 'down'
+13.3875 	EXP 	text: autoDraw = True
+13.5968 	EXP 	Imported stim.xlsx as conditions, 12 conditions, 2 params
+13.5971 	EXP 	Created sequence: sequential, trialTypes=12, nReps=5, seed=None
+13.5973 	EXP 	New trial (rep=0, index=0): OrderedDict([('S1', 'coffee'), ('S2', 'pizza')])
+13.6069 	DATA 	Keypress: space
+13.6208 	EXP 	text: autoDraw = False
+13.6208 	EXP 	text_2: text = 'pizza'
+13.6208 	EXP 	text_2: autoDraw = True
+13.8089 	EXP 	New trial (rep=0, index=1): OrderedDict([('S1', 'was'), ('S2', 'was')])
+13.8136 	DATA 	Keypress: space
+13.8207 	EXP 	text_2: autoDraw = False
+13.8207 	EXP 	text_2: text = 'was'
+13.8207 	EXP 	text_2: autoDraw = True
+14.0246 	EXP 	New trial (rep=0, index=2): OrderedDict([('S1', 'too'), ('S2', 'too')])
+14.0299 	DATA 	Keypress: space
+14.0374 	EXP 	text_2: autoDraw = False
+14.0374 	EXP 	text_2: text = 'too'
+14.0374 	EXP 	text_2: autoDraw = True
+14.2421 	EXP 	New trial (rep=0, index=3): OrderedDict([('S1', 'hot'), ('S2', 'hot')])
+14.2476 	DATA 	Keypress: space
+14.2541 	EXP 	text_2: autoDraw = False
+14.2541 	EXP 	text_2: text = 'hot'
+14.2541 	EXP 	text_2: autoDraw = True
+14.4585 	DATA 	Keypress: space
+14.4751 	EXP 	New trial (rep=0, index=4): OrderedDict([('S1', 'to'), ('S2', 'to ')])
+14.4874 	EXP 	text_2: autoDraw = False
+14.4874 	EXP 	text_2: text = 'to '
+14.4874 	EXP 	text_2: autoDraw = True
+14.6919 	EXP 	New trial (rep=0, index=5): OrderedDict([('S1', 'drink'), ('S2', 'drink')])
+14.6968 	DATA 	Keypress: space
+14.7041 	EXP 	text_2: autoDraw = False
+14.7041 	EXP 	text_2: text = 'drink'
+14.7041 	EXP 	text_2: autoDraw = True
+14.9079 	EXP 	New trial (rep=0, index=6): OrderedDict([('S1', 'so'), ('S2', 'so ')])
+14.9128 	DATA 	Keypress: space
+14.9208 	EXP 	text_2: autoDraw = False
+14.9208 	EXP 	text_2: text = 'so '
+14.9208 	EXP 	text_2: autoDraw = True
+15.1248 	EXP 	New trial (rep=0, index=7): OrderedDict([('S1', 'we'), ('S2', 'we')])
+15.1298 	DATA 	Keypress: space
+15.1374 	EXP 	text_2: autoDraw = False
+15.1374 	EXP 	text_2: text = 'we'
+15.1374 	EXP 	text_2: autoDraw = True
+15.3422 	EXP 	New trial (rep=0, index=8): OrderedDict([('S1', 'let'), ('S2', 'let')])
+15.3466 	DATA 	Keypress: space
+15.3541 	EXP 	text_2: autoDraw = False
+15.3541 	EXP 	text_2: text = 'let'
+15.3541 	EXP 	text_2: autoDraw = True
+15.5586 	EXP 	New trial (rep=0, index=9): OrderedDict([('S1', 'it'), ('S2', 'it')])
+15.5639 	DATA 	Keypress: space
+15.5707 	EXP 	text_2: autoDraw = False
+15.5707 	EXP 	text_2: text = 'it'
+15.5707 	EXP 	text_2: autoDraw = True
+15.7587 	EXP 	New trial (rep=0, index=10): OrderedDict([('S1', 'cool'), ('S2', 'cool')])
+15.7636 	DATA 	Keypress: space
+15.7708 	EXP 	text_2: autoDraw = False
+15.7708 	EXP 	text_2: text = 'cool'
+15.7708 	EXP 	text_2: autoDraw = True
+15.9746 	EXP 	New trial (rep=0, index=11): OrderedDict([('S1', 'down'), ('S2', 'down')])
+15.9796 	DATA 	Keypress: space
+15.9875 	EXP 	text_2: autoDraw = False
+15.9875 	EXP 	text_2: text = 'down'
+15.9875 	EXP 	text_2: autoDraw = True
+16.2250 	EXP 	New trial (rep=1, index=0): OrderedDict([('S1', 'coffee'), ('S2', 'pizza')])
+16.2309 	DATA 	Keypress: space
+16.2375 	EXP 	text_2: autoDraw = False
+16.2375 	EXP 	text_2: text = 'pizza'
+16.2375 	EXP 	text_2: autoDraw = True
+16.5587 	EXP 	New trial (rep=1, index=1): OrderedDict([('S1', 'was'), ('S2', 'was')])
+16.5638 	DATA 	Keypress: space
+16.5708 	EXP 	text_2: autoDraw = False
+16.5708 	EXP 	text_2: text = 'was'
+16.5708 	EXP 	text_2: autoDraw = True
+16.8749 	EXP 	New trial (rep=1, index=2): OrderedDict([('S1', 'too'), ('S2', 'too')])
+16.8798 	DATA 	Keypress: space
+16.8874 	EXP 	text_2: autoDraw = False
+16.8874 	EXP 	text_2: text = 'too'
+16.8874 	EXP 	text_2: autoDraw = True
+17.0918 	EXP 	New trial (rep=1, index=3): OrderedDict([('S1', 'hot'), ('S2', 'hot')])
+17.0970 	DATA 	Keypress: space
+17.1042 	EXP 	text_2: autoDraw = False
+17.1042 	EXP 	text_2: text = 'hot'
+17.1042 	EXP 	text_2: autoDraw = True
+17.2586 	EXP 	New trial (rep=1, index=4): OrderedDict([('S1', 'to'), ('S2', 'to ')])
+17.2636 	DATA 	Keypress: space
+17.2708 	EXP 	text_2: autoDraw = False
+17.2708 	EXP 	text_2: text = 'to '
+17.2708 	EXP 	text_2: autoDraw = True
+17.4084 	EXP 	New trial (rep=1, index=5): OrderedDict([('S1', 'drink'), ('S2', 'drink')])
+17.4141 	DATA 	Keypress: space
+17.4208 	EXP 	text_2: autoDraw = False
+17.4208 	EXP 	text_2: text = 'drink'
+17.4208 	EXP 	text_2: autoDraw = True
+17.6087 	EXP 	New trial (rep=1, index=6): OrderedDict([('S1', 'so'), ('S2', 'so ')])
+17.6136 	DATA 	Keypress: space
+17.6208 	EXP 	text_2: autoDraw = False
+17.6208 	EXP 	text_2: text = 'so '
+17.6208 	EXP 	text_2: autoDraw = True
+17.7584 	EXP 	New trial (rep=1, index=7): OrderedDict([('S1', 'we'), ('S2', 'we')])
+17.7636 	DATA 	Keypress: space
+17.7708 	EXP 	text_2: autoDraw = False
+17.7708 	EXP 	text_2: text = 'we'
+17.7708 	EXP 	text_2: autoDraw = True
+17.9254 	EXP 	New trial (rep=1, index=8): OrderedDict([('S1', 'let'), ('S2', 'let')])
+17.9296 	DATA 	Keypress: space
+17.9374 	EXP 	text_2: autoDraw = False
+17.9374 	EXP 	text_2: text = 'let'
+17.9374 	EXP 	text_2: autoDraw = True
+19.4446 	DATA 	Keypress: escape
+19.6215 	EXP 	window1: mouseVisible = True
