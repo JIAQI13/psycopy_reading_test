@@ -1,0 +1,96 @@
+6.1076 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([0., 0., 0.]), colorSpace='rgb', fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001E3254339E8>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001E3254D39B0>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+6.1077 	EXP 	window1: recordFrameIntervals = False
+6.2739 	EXP 	window1: recordFrameIntervals = True
+6.4573 	EXP 	window1: recordFrameIntervals = False
+6.7338 	EXP 	Created ins = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='ins', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+6.7559 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='default text', units='height', win=Window(...), wrapWidth=1)
+6.7597 	EXP 	Created text_choose = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_choose', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='default text', units='height', win=Window(...), wrapWidth=1)
+6.7820 	EXP 	Created text_begin = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_begin', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='session begins\npress return', units='height', win=Window(...), wrapWidth=1)
+6.7858 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='default text', units='height', win=Window(...), wrapWidth=1)
+6.7895 	EXP 	Created text_choose = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_choose', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='default text', units='height', win=Window(...), wrapWidth=1)
+6.7936 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='end', units='height', win=Window(...), wrapWidth=1)
+6.9715 	EXP 	ins: autoDraw = True
+7.3511 	EXP 	Imported sample_test.xlsx as conditions, 4 conditions, 6 params
+7.3514 	EXP 	Created sequence: random, trialTypes=4, nReps=1, seed=None
+7.3517 	EXP 	New trial (rep=0, index=0): OrderedDict([('sentence', 'I am red(sample)'), ('choose_A', 'tall'), ('choose_B', 'short'), ('choose_C', 'red'), ('choose_D', 'green'), ('correctAns', 3)])
+7.3699 	DATA 	Keypress: return
+7.3741 	EXP 	ins: autoDraw = False
+7.3741 	EXP 	text: text = 'I am red(sample)'
+7.3741 	EXP 	text: autoDraw = True
+8.3262 	DATA 	Keypress: return
+8.3408 	EXP 	text: autoDraw = False
+8.3408 	EXP 	text_choose: autoDraw = True
+8.8610 	DATA 	Keypress: 1
+9.8292 	DATA 	Keypress: 1
+9.8454 	EXP 	New trial (rep=0, index=1): OrderedDict([('sentence', 'I am short((sample))'), ('choose_A', 'tall'), ('choose_B', 'short'), ('choose_C', 'red'), ('choose_D', 'green'), ('correctAns', 2)])
+9.8739 	EXP 	text_choose: autoDraw = False
+9.8739 	EXP 	text: text = 'I am short((sample))'
+9.8739 	EXP 	text: autoDraw = True
+12.4180 	DATA 	Keypress: return
+12.4240 	EXP 	text: autoDraw = False
+12.4240 	EXP 	text_choose: autoDraw = True
+13.1965 	DATA 	Keypress: 1
+13.2112 	EXP 	New trial (rep=0, index=2): OrderedDict([('sentence', 'I am tall(sample)'), ('choose_A', 'tall'), ('choose_B', 'short'), ('choose_C', 'red'), ('choose_D', 'green'), ('correctAns', 1)])
+13.2240 	EXP 	text_choose: autoDraw = False
+13.2240 	EXP 	text: text = 'I am tall(sample)'
+13.2240 	EXP 	text: autoDraw = True
+14.6960 	DATA 	Keypress: return
+14.7406 	EXP 	text: autoDraw = False
+14.7406 	EXP 	text_choose: autoDraw = True
+15.4451 	EXP 	New trial (rep=0, index=3): OrderedDict([('sentence', 'I am green(sample)'), ('choose_A', 'tall'), ('choose_B', 'short'), ('choose_C', 'red'), ('choose_D', 'green'), ('correctAns', 4)])
+15.4561 	DATA 	Keypress: 1
+15.4740 	EXP 	text_choose: autoDraw = False
+15.4740 	EXP 	text: text = 'I am green(sample)'
+15.4740 	EXP 	text: autoDraw = True
+16.4950 	DATA 	Keypress: return
+16.5573 	EXP 	text: autoDraw = False
+16.5573 	EXP 	text_choose: autoDraw = True
+17.1302 	DATA 	Keypress: 1
+17.1407 	EXP 	text_choose: autoDraw = False
+17.1407 	EXP 	text_begin: autoDraw = True
+17.9506 	EXP 	Imported test.xlsx as conditions, 4 conditions, 6 params
+17.9508 	EXP 	Created sequence: sequential, trialTypes=4, nReps=1, seed=None
+17.9510 	EXP 	New trial (rep=0, index=0): OrderedDict([('sentence', 'I am tall'), ('choose_A', 'tall'), ('choose_B', 'short'), ('choose_C', 'red'), ('choose_D', 'green'), ('correctAns', 1)])
+17.9580 	DATA 	Keypress: return
+17.9740 	EXP 	text_begin: autoDraw = False
+17.9740 	EXP 	text: text = 'I am tall'
+17.9740 	EXP 	text: autoDraw = True
+19.1287 	DATA 	Keypress: d
+19.1289 	DATA 	Keypress: c
+19.4452 	DATA 	Keypress: d
+19.6452 	DATA 	Keypress: d
+19.8449 	DATA 	Keypress: d
+22.1483 	DATA 	Keypress: return
+22.1573 	EXP 	text: autoDraw = False
+22.1573 	EXP 	text_choose: autoDraw = True
+23.1123 	EXP 	New trial (rep=0, index=1): OrderedDict([('sentence', 'I am short'), ('choose_A', 'tall'), ('choose_B', 'short'), ('choose_C', 'red'), ('choose_D', 'green'), ('correctAns', 2)])
+23.1200 	DATA 	Keypress: 1
+23.1240 	EXP 	text_choose: autoDraw = False
+23.1240 	EXP 	text: text = 'I am short'
+23.1240 	EXP 	text: autoDraw = True
+23.6981 	DATA 	Keypress: return
+23.7073 	EXP 	text: autoDraw = False
+23.7073 	EXP 	text_choose: autoDraw = True
+24.1121 	EXP 	New trial (rep=0, index=2): OrderedDict([('sentence', 'I am red'), ('choose_A', 'tall'), ('choose_B', 'short'), ('choose_C', 'red'), ('choose_D', 'green'), ('correctAns', 3)])
+24.1190 	DATA 	Keypress: 1
+24.1240 	EXP 	text_choose: autoDraw = False
+24.1240 	EXP 	text: text = 'I am red'
+24.1240 	EXP 	text: autoDraw = True
+24.5355 	DATA 	Keypress: return
+24.5408 	EXP 	text: autoDraw = False
+24.5408 	EXP 	text_choose: autoDraw = True
+24.9451 	EXP 	New trial (rep=0, index=3): OrderedDict([('sentence', 'I am green'), ('choose_A', 'tall'), ('choose_B', 'short'), ('choose_C', 'red'), ('choose_D', 'green'), ('correctAns', 4)])
+24.9542 	DATA 	Keypress: 1
+24.9573 	EXP 	text_choose: autoDraw = False
+24.9573 	EXP 	text: text = 'I am green'
+24.9573 	EXP 	text: autoDraw = True
+25.5309 	DATA 	Keypress: return
+25.5407 	EXP 	text: autoDraw = False
+25.5407 	EXP 	text_choose: autoDraw = True
+25.9620 	DATA 	Keypress: 1
+25.9907 	EXP 	text_choose: autoDraw = False
+25.9907 	EXP 	text_2: autoDraw = True
+26.2938 	DATA 	Keypress: return
+26.7429 	DATA 	Keypress: 1
+27.1112 	DATA 	Keypress: escape
+27.3215 	EXP 	window1: mouseVisible = True
